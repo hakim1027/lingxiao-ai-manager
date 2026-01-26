@@ -2,7 +2,9 @@
 
 # 🚀 凌霄AI管理工具
 
-**一站式 Cursor IDE 账号管理解决方案**
+### Cursor + Antigravity 双IDE 账号管理神器
+
+**多账号切换 | 配额查询 | 机器码重置 | 永久免费**
 
 [![永久免费](https://img.shields.io/badge/价格-永久免费-brightgreen?style=for-the-badge)](https://github.com/lingxiao69/lingxiao-ai-manager)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11%2FServer-blue?style=for-the-badge&logo=windows)](https://github.com/lingxiao69/lingxiao-ai-manager)
