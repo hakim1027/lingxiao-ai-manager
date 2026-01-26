@@ -81,15 +81,13 @@
 
 | 使用统计 | 账号管理 |
 |:--------:|:--------:|
-| ![使用统计](https://via.placeholder.com/400x300?text=Usage+Stats) | ![账号管理](https://via.placeholder.com/400x300?text=Account+Manager) |
+| ![使用统计](./docs/1.png) | ![账号管理](./docs/2.png) |
 
 | 机器码管理 | Antigravity |
 |:----------:|:-----------:|
-| ![机器码](https://via.placeholder.com/400x300?text=Machine+ID) | ![Antigravity](https://via.placeholder.com/400x300?text=Antigravity) |
+| ![机器码](./docs/3.png) | ![Antigravity](./docs/4.png) |
 
 </div>
-
-> 📌 **提示**：上传真实截图可以大幅提升用户信任度！
 
 ---
 
